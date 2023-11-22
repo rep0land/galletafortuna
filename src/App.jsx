@@ -4,7 +4,7 @@ import './App.css'
 import phrases from './utils/phrases.json'
 import bgArr from './utils/bgArr.json'
 import getRandomFromArr from './services/getRandomFromArr'
-import Phrase from './components/phrase'
+import Phrase from './components/Phrase'
 import ButtonPhrase from './components/ButtonPhrase'
 
 
